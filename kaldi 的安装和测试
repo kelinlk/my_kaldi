@@ -1,0 +1,5 @@
+1. git下载源码
+
+git clone https://github.com/kaldi-asr/kaldi.git kaldi-trunk --origin golden
+2. 安装
+ cd kaldi-trunk/tools/
